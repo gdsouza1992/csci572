@@ -1,0 +1,40 @@
+
+Conclusions:
+In general from the results that I observed when searching for queries related to the Keck School of Medicine at USC, I noticed that both Google and Bing provided almost similar results. There was an average 2.25 pages that overlapped in the 240 pages across bing and google. For navigational queries google provided the correct result everytime and bing provided correct results 88.89% of the times.
+
+RQ1 - Which search engine performs best when considering the first 10 results for a given query?
+Both google and bing performed consistently similarly for the first 10 results however google seemed to show more relevant. For Navigational queries google always provided the relevant information in the first link itself. The total sum of all relevances for google was 52.00 where as for bing it was 46.75. 
+
+RQ2 - Is there a difference in relevance between the search engines when considering informational queries and navigational queries, respectively?
+Yes For navigational queries Google provided more relevant results as compared to Bing. The top result for navigational results on Google provided the  appropriate site/information always. However for informational queries Bing gave more relevant results than Google. The percent of relevant navigational queries for Google's top 10 results was 56.67% which was lesser than Bing's 60%.
+
+Queries used for Keck School:
+Query No	Query Type			Query String												Type
+--------------------------------------------------------------------------------------------------------
+1			Faculty Name		Sonya Earley Keck											Navigational
+2			Faculty Name		Pragna Patel Keck											Navigational
+3			Faculty Name		Shawn Roofian Keck											Navigational
+4			Faculty Department	Department of Pathology Keck								Navigational
+5			Faculty Department	Department of Dermatology Keck								Navigational
+6			Faculty Department	Department of Surgery Keck									Navigational
+7			School Map			Keck USC Map												Navigational
+8			Founder Name		Keck Foundation												Navigational
+9			Alumni News Webpage	USC Keck Alumni												Navigational
+10			Requirements		USC Preventive Medicine Undergraduate degree requirements 	Informational
+11			Requirements		USC Global Medicine Masters degree requirements 			Informational
+12			Requirements		USC Preventive Medicine Ph.D. degree requirements 			Informational
+13			Non Matching Query	USC Keck oncology	
+
+
+
+The following were the assupmtions and criteria that I used consistently across both search engines:
+
+1.  Links to pages that prompted dialogboxes for username and passwords and didnt show anyother data, got 0
+2.  Facebook groups got 0
+3.  Map queries that had only postal addresses got 0.25
+4.  Visited links on page 2 to get top 10 results when ads and navigational links took up sapce on page 1
+5.  USC Map application got 1
+6.  Keck Foundation queries that pointed to school homepage recieved 0.25
+7.  3rd party sites that called for papers from Keck foundation recieved 0.25
+
+
